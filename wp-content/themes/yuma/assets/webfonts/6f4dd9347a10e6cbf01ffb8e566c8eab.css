@@ -1,0 +1,891 @@
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHrv4kjgoGqM7E3b_s0wHkDnzcjTrA.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHrv4kjgoGqM7E3b_s1wHkDnzcjTrA.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHrv4kjgoGqM7E3b_s7wHkDnzcj.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3w-os6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3w-os6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3w-os51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3p-ks6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3p-ks6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3p-ks51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHpv4kjgoGqM7E_A8s_ynghnQci.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHpv4kjgoGqM7E_Ass_ynghnQci.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHpv4kjgoGqM7E_DMs_ynghnQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3_-gs6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3_-gs6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3_-gs51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E30-8s6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E30-8s6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E30-8s51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3t-4s6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3t-4s6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3t-4s51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3q-0s6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3q-0s6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3q-0s51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3j-ws6Foqtz0rdom9.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3j-ws6Voqtz0rdom9.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow/7cHqv4kjgoGqM7E3j-ws51oqtz0rdg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qnIEgKgZSORWs.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qmIEgKgZSORWs.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qoIEgKgZSO.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXd4qsKkkog6SP.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXdoqsKkkog6SP.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXeIqsKkkogw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_CGsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_CWsjqZ6GfVK5.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/barlow-semi-condensed/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_B2sjqZ6GfQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLXOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLzOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLfOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOW3pzveSJBHNd.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://localhost/sharkthemes/wp-content/themes/yuma/assets/webfonts/bitter/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLjOW3pzveSJBA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
